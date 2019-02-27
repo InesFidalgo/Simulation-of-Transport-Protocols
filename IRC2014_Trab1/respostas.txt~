@@ -1,0 +1,14 @@
+2-
+a)50 pacotes
+b)1000 bytes
+c)1000 bytes
+d)20
+e)50 pacotes
+3.1-
+UDP -> Tempo minimo=0.3143 Nº pacotes perdidos=2782
+
+3.2-
+UDP -> Tempo minimo= 0.3383 Nº pacotes perdidos=2798
+
+4.1-
+UDP -> Tempo mínimo=0.3101 Nº pacotes perdidos 2799
